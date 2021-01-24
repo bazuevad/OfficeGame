@@ -1,5 +1,6 @@
 # Guess The Celebrity Game: Office Edition
 
+![](Guess_Celebrity.gif)
 ## Content:
  
 You will create:
